@@ -13,6 +13,17 @@ Lately, I’ve been deep‑diving into DevOps and making cloud‑native apps beh
 - Simplifying chaos engineering
 - Building with frost & blood (both in code and Elden Ring: Journey 4, baby)
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=desmond-45&layout=compact&theme=tokyonight&count_private=true"
+    alt="Top languages"
+    height="180"
+  />
+</p>
+
+
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
