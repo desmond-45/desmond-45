@@ -56,8 +56,7 @@ Lately, I’ve been deep‑diving into DevOps and making cloud‑native apps beh
 - Rebinding keymaps in Neovim  
 - Refactoring configs while vibing to boss OSTs  
 - Explaining why Kubernetes *isn’t* overkill (most of the time)
-- Killed **Malenia (×3)** ( not flexing, just facts )
-- ❄️ On **Journey 4** with a **Frost & Blood build** (Dex/Arcane hybrid)  
+- Playing Elden ring. Killed **Malenia (×3)** ( not flexing, just facts )
 
 ---
 
