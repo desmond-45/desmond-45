@@ -9,11 +9,11 @@
 
 Lately, I’ve been deep‑diving into DevOps and making cloud‑native apps behave.
 
-### ⚔️ Currently forging
+### Currently forging
 - Simplifying chaos engineering
 - Building with frost & blood (both in code and Elden Ring: Journey 4, baby)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img
@@ -39,20 +39,20 @@ Lately, I’ve been deep‑diving into DevOps and making cloud‑native apps beh
 </p>
 
 
-## 🪓 Projects you might’ve seen me around
-- 🔧 Neovim, Golang & terminal‑based workflows
+##  Projects you might’ve seen me around
+- Neovim, Golang & terminal‑based workflows
 
 
-## 🔮 Why Neovim?
+## Why Neovim?
 > “A real Tarnished forges their tools… not just downloads them.”
 
-- ⚡ Blazingly fast. No IDE bloat  
-- ✨ Fully Lua‑powered config  
-- 🧠 LSPs, Treesitter, linters, formatters ... all under my command!
-- 🔍 [`telescope.nvim`](https://github.com/nvim-telescope/telescope.nvim) *(shout‑out to [@tjdevries](https://github.com/tjdevries))* — a fuzzy finder so good, it’s basically a **Howl of Shabriri** incantation
+- Blazingly fast. No IDE bloat  
+- Fully Lua‑powered config  
+- LSPs, Treesitter, linters, formatters ... all under my command!
+-  [`telescope.nvim`](https://github.com/nvim-telescope/telescope.nvim) *(shout‑out to [@tjdevries](https://github.com/tjdevries))* — a fuzzy finder so good, it’s basically a **Howl of Shabriri** incantation
 
 
-## 🎮 When I’m not coding
+## When I’m not coding
 - Rebinding keymaps in Neovim  
 - Refactoring configs while vibing to boss OSTs  
 - Explaining why Kubernetes *isn’t* overkill (most of the time)
