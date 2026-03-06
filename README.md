@@ -16,9 +16,9 @@ Lately, I’ve been deep‑diving into DevOps and making cloud‑native apps beh
 ## GitHub Stats
 
 <p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=desmond-45&layout=compact&theme=tokyonight&count_private=true"
-    alt="Top languages"
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=desmond-45&layout=compact&theme=tokyonight&langs_count=8"
+    alt="Top Languages"
     height="180"
   />
 </p>
