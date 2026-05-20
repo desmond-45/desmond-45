@@ -1,4 +1,4 @@
-**Full Stack Developer | Kubernetes Enthusiast | Elden Lord (in training)**
+**Full Stack Developer | Kubernetes Enthusiast | Elden Lord**
 
 > “Rise now, Ye Tarnished of tech. Ye dead who yet code...
 > The Erdtree awaits thee, and so does prod.”
@@ -7,7 +7,6 @@
   <img src="https://media.giphy.com/media/kEmrCyv0Pd1qzof2Mw/giphy.gif" width="600" alt="Malenia entrance"/>
 </p>
 
-Lately, I’ve been deep‑diving into DevOps and making cloud‑native apps behave.
 
 ### Currently forging
 - Building GenAI and predictive AI systems
@@ -87,20 +86,12 @@ Lately, I’ve been deep‑diving into DevOps and making cloud‑native apps beh
 > “A real Tarnished forges their tools… not just downloads them.”
 
 - Blazingly fast. No IDE bloat  
-- Fully Lua‑powered config  
+- Fully Lua powered config  
 - LSPs, Treesitter, linters, formatters ... all under my command!
--  [`telescope.nvim`](https://github.com/nvim-telescope/telescope.nvim) *(shout‑out to [@tjdevries](https://github.com/tjdevries))* — a fuzzy finder so good, it’s basically a **Howl of Shabriri** incantation
+-  [`telescope.nvim`](https://github.com/nvim-telescope/telescope.nvim) *(shout‑out to [@tjdevries](https://github.com/tjdevries))*
 
 
 ## When I’m not coding
-- Rebinding keymaps in Neovim  
-- Refactoring configs while vibing to boss OSTs  
-- Explaining why Kubernetes *isn’t* overkill (most of the time)
-- Playing Elden ring. Killed **Malenia (×3)** ( not flexing, just facts )
-
----
-
-## 📫 Contact Me
-- **LinkedIn** → [Deepanshu Rana](https://www.linkedin.com/in/deepanshu-rana-5aaa3497/)
-- **Mail** → [deepanshurana45@pm.me](https://www.linkedin.com/in/deepanshu-rana-5aaa3497/)
-
+- Rebinding keymaps in Neovim
+- Refactoring configs while vibing to boss OSTs
+- Dying in FromSoftware games. Remember: hesitation is defeat.
